@@ -18,4 +18,4 @@ cd bindings/python
 pip install -e .
 
 echo ">> Ambiente preparado com sucesso!"
-echo ">> Agora clone seu repositório com o código e o modelo GGUF."
+

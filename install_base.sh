@@ -1,23 +1,14 @@
 #!/bin/bash
 
+sudo su
+
 echo ">> Atualizando sistema..."
 sudo apt update && sudo apt upgrade -y
 
-echo ">> Instalando dependências..."
-sudo apt install -y build-essential cmake python3-pip git wget
+echo ">> Iniciando ambiente virtual"
+apt install python3-venv
+python3 -m venv makima
+source makima/bin/activate
 
-echo ">> Removendo qualquer instalação antiga de llama.cpp..."
-rm -rf ~/llama.cpp
-
-echo ">> Clonando última versão do llama.cpp..."
-git clone https://github.com/ggerganov/llama.cpp ~/llama.cpp
-cd ~/llama.cpp
-
-echo ">> Compilando llama.cpp com suporte a Python..."
-make python
-
-echo ">> Instalando binding Python (llama-cpp-python)..."
-cd bindings/python
-pip install -e .
-
-echo "✅ Tudo pronto! Agora você pode usar 'from llama_cpp import Llama' no Python."
+echo ">> Instalando o llama"
+pip install llama-cpp-python[server]

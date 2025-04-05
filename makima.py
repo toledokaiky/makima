@@ -1,7 +1,7 @@
 from llama_cpp import Llama
 
 # Caminho para o seu modelo .gguf
-MODEL_PATH = "/Users/kaikysouza/llama/models/llama-2-7b-chat.Q4_K_M.gguf"
+MODEL_PATH = "models/llama-2-7b-chat.Q4_K_M.gguf"
 
 # Inicializa o modelo
 llm = Llama(

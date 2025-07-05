@@ -1,6 +1,6 @@
 # 🤖 GIO – Gerenciadora Inteligente de Otimizações
 
-A **GIO** é uma rede neural avançada conectada à **Google Ads API**, feita para **avaliar, otimizar e escalar campanhas publicitárias** de forma automatizada. Seu foco é gerar resultados com inteligência e precisão, respeitando a estratégia de cada conta.
+A **GIO** é uma rede neural avançada que gerencia campanhas de marketing no **Google Ads**, feita para **avaliar, otimizar e escalar campanhas publicitárias** de forma automatizada. Seu foco é gerar resultados com inteligência e precisão, e sem precisar de 
 
 ---
 
@@ -26,7 +26,7 @@ A **GIO** é uma rede neural avançada conectada à **Google Ads API**, feita pa
 | ⛔ Pausa automatizada | Campanhas com nota < 1.0 podem ser pausadas automaticamente. |
 | 🚀 Escalonamento gradual | Campanhas nota > 3.5 recebem aumento progressivo no orçamento. |
 | 🧮 Atualização de benchmarks | Cálculo de CPA médio e ROAS alvo por conta. |
-| 📤 Relatórios automáticos | Envio de dashboards diários com notas e ações aplicadas. |
+| 📤 Relatórios automáticos | Envio de dashboards diários com notas, ações aplicadas, problemas na conta e avisos. |
 
 ---
 

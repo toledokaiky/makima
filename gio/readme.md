@@ -98,8 +98,8 @@ Cada campanha recebe uma **nota GIO de 0 a 4**, composta pelas seguintes métric
 
 ---
 
-## ⏱️ Rotina da GIO
+## ⏱️ Rotina da GIO - Conta
 
 | 👺 Estilo | 🟢 Ação Sugerida |
 |--------|------------------|
-| Observação | Analisar se CTR, CPA, CPC e outras metris as estão dentro do desvio padrão ou estão disparadas para cima ou para baixo (comparado com os ultimos 7 dias).
+| Observação (Conta e campanha) [Duas vezes ao dia, 5h e 13h] | Analisar se CTR, CPA, CPC e outras metris as estão dentro do desvio padrão ou estão disparadas para cima ou para baixo (comparado com os ultimos 7 dias).

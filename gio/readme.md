@@ -98,5 +98,6 @@ Cada campanha recebe uma **nota GIO de 0 a 4**, composta pelas seguintes métric
 
 ---
 
-## 📁 Estrutura do Projeto
+## ⏱️ Rotina da GIO
+
 

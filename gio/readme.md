@@ -105,3 +105,9 @@ Cada campanha recebe uma **nota GIO de 0 a 4**, composta pelas seguintes métric
 | Observação (Conta e campanha) [Duas vezes ao dia, 5h e 13h] {CPA uma vez dia anterior, CPC e outros duas vezes anterior e atual} | Analisar se CTR, CPA, CPC e outras metris as estão dentro do desvio padrão ou estão disparadas para cima ou para baixo (comparado com os ultimos 7 dias).|
 | Confere | Analise se as tags de conversoes estao instaladas e se estão convertendo |
 | Balanço | Balanço de orçamento de todas as campanhas baseado em performance |
+
+
+## ⏱️ Rotina Semanal
+| 👺 Estilo | Ação
+|--------|------------------|
+| Balanço (Mais agressivo) | Balanço de orçamento das campanhas de forma mais agressiva |
